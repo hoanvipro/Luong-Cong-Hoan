@@ -5,7 +5,7 @@
 * That link about mmpretrain: https://github.com/open-mmlab/mmpretrain
 * You can go to with link have all tutorial: https://mmpretrain.readthedocs.io/en/latest/
 # Member of Group (with Vietnamese):
-*Huỳnh Quốc Trọng
-*Lương Công Hoàn
-*Lê Văn Thành
-*Đỗ Hoàng Giang
+* Huỳnh Quốc Trọng
+* Lương Công Hoàn
+* Lê Văn Thành
+* Đỗ Hoàng Giang
